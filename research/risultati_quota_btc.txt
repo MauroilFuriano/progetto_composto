@@ -1,0 +1,35 @@
+Dati fino al 2026-05-23  liquidità 2.5%/anno, fee 0.5%
+
+=== Finestre mobili, tutte le partenze 2016+ ===
+3a 10% BTC              n= 84 IRR mediano   9.6%  IRR 10° perc   5.5%  in perdita  0.0%  maxDD mediano   -3.7%  maxDD peggiore   -9.4%
+3a 20% BTC              n= 84 IRR mediano  16.4%  IRR 10° perc   8.2%  in perdita  0.0%  maxDD mediano   -7.4%  maxDD peggiore  -20.4%
+3a 30% BTC              n= 84 IRR mediano  22.7%  IRR 10° perc  10.6%  in perdita  0.0%  maxDD mediano  -12.9%  maxDD peggiore  -29.4%
+3a 20% BTC/ETH 50-50    n= 84 IRR mediano  15.3%  IRR 10° perc   8.4%  in perdita  0.0%  maxDD mediano  -11.7%  maxDD peggiore  -17.2%
+5a 10% BTC              n= 60 IRR mediano   9.3%  IRR 10° perc   7.6%  in perdita  0.0%  maxDD mediano   -4.2%  maxDD peggiore   -9.4%
+5a 20% BTC              n= 60 IRR mediano  15.7%  IRR 10° perc  12.2%  in perdita  0.0%  maxDD mediano   -9.6%  maxDD peggiore  -20.4%
+5a 30% BTC              n= 60 IRR mediano  21.9%  IRR 10° perc  16.1%  in perdita  0.0%  maxDD mediano  -18.8%  maxDD peggiore  -29.4%
+5a 20% BTC/ETH 50-50    n= 60 IRR mediano  18.2%  IRR 10° perc  11.8%  in perdita  0.0%  maxDD mediano  -13.9%  maxDD peggiore  -17.2%
+
+=== Finestre mobili, solo partenze 2019+ ===
+3a 10% BTC              n= 53 IRR mediano   8.0%  IRR 10° perc   4.9%  in perdita  0.0%  maxDD mediano   -2.5%  maxDD peggiore   -4.0%
+3a 20% BTC              n= 53 IRR mediano  13.3%  IRR 10° perc   7.2%  in perdita  0.0%  maxDD mediano   -4.9%  maxDD peggiore   -9.4%
+3a 30% BTC              n= 53 IRR mediano  18.4%  IRR 10° perc   9.0%  in perdita  0.0%  maxDD mediano   -7.8%  maxDD peggiore  -15.3%
+3a 20% BTC/ETH 50-50    n= 53 IRR mediano  13.3%  IRR 10° perc   7.3%  in perdita  0.0%  maxDD mediano   -6.9%  maxDD peggiore  -13.3%
+5a 10% BTC              n= 29 IRR mediano   9.0%  IRR 10° perc   6.0%  in perdita  0.0%  maxDD mediano   -3.3%  maxDD peggiore   -4.0%
+5a 20% BTC              n= 29 IRR mediano  15.4%  IRR 10° perc   9.3%  in perdita  0.0%  maxDD mediano   -6.6%  maxDD peggiore   -9.4%
+5a 30% BTC              n= 29 IRR mediano  21.4%  IRR 10° perc  12.3%  in perdita  0.0%  maxDD mediano  -12.2%  maxDD peggiore  -18.1%
+5a 20% BTC/ETH 50-50    n= 29 IRR mediano  14.1%  IRR 10° perc   8.0%  in perdita  0.0%  maxDD mediano  -11.7%  maxDD peggiore  -13.3%
+
+=== Lump sum 5000 dal picco ===
+2017-12-17 10% BTC              finale     9158  IRR    7.4%  maxDD  -10.9%
+2017-12-17 20% BTC              finale    12594  IRR   11.5%  maxDD  -23.0%
+2017-12-17 30% BTC              finale    16189  IRR   14.9%  maxDD  -34.0%
+2017-12-17 20% BTC/ETH 50-50    finale    12932  IRR   11.9%  maxDD  -27.9%
+2021-11-10 10% BTC              finale     6134  IRR    4.6%  maxDD   -8.3%
+2021-11-10 20% BTC              finale     6598  IRR    6.3%  maxDD  -18.3%
+2021-11-10 30% BTC              finale     6963  IRR    7.6%  maxDD  -27.7%
+2021-11-10 20% BTC/ETH 50-50    finale     6227  IRR    5.0%  maxDD  -17.3%
+2025-10-06 10% BTC              finale     4868  IRR   -4.3%  maxDD   -4.9%
+2025-10-06 20% BTC              finale     4658  IRR  -10.9%  maxDD  -10.5%
+2025-10-06 30% BTC              finale     4450  IRR  -17.2%  maxDD  -15.9%
+2025-10-06 20% BTC/ETH 50-50    finale     4536  IRR  -14.6%  maxDD  -12.1%
